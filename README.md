@@ -1,6 +1,5 @@
 # COVID-19 Data Exploration Project
 
-> **Author / Tutorial Source:** Alex The Analyst  
 > **Tools Used:** SQL Server (SSMS), Excel, GitHub, Tableau (Public)  
 > **Dataset:** Our World in Data (OWID) Global COVID-19 Dataset
 
