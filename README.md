@@ -27,7 +27,7 @@
 * **Global Infection Waves Line Chart:** Tracking daily new cases and new deaths across a temporal timeline.
 * **Geographical Map (Tableau):** Visualizing infection rates and mortality counts across continents and specific country drill-down layers.
 * **Vaccination Cumulative Growth Area Chart:** Illustrating rolling totals of people vaccinated versus total population per country over time.
-
+* **Visualization:** https://public.tableau.com/app/profile/ansh.chellani/viz/CovidDeathsVisualizations/Dashboard1
 ---
 
 ## 💡 4. Recommendations
